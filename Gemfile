@@ -13,7 +13,7 @@ gem 'jbuilder',     '2.6.4'
 gem 'rake', 		'11.3.0'
 gem 'jquery-ui-rails'
 gem 'railties'    
-geem 'rails-ujs'
+gem 'rails-ujs'
 
 group :development, :test do
   gem 'sqlite3', '1.3.13'
